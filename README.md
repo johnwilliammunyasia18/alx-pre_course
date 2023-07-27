@@ -1,1 +1,1 @@
-my firts readme
+README for alx-pre_course
